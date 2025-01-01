@@ -1,0 +1,20 @@
+body{
+    background-color: #2a3a4e;
+}
+
+.wrapper{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+}
+
+.container{
+    font: 1px;
+    padding: 0 20px;
+}
