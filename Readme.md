@@ -19,7 +19,7 @@ A **dynamic curved progress bar** built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Screenshot  
 
-![Curved Progress Bar](./Screenshot_1-1-2025_191140_127.0.0.1.jpeg)  
+![Curved Progress Bar](./Curved%20Progress%20Bar.jpeg)  
 
 ---
 
